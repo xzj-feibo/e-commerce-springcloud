@@ -1,0 +1,11 @@
+# Project exclude paths
+/e-commerce-admin/target/
+/e-commerce-alibaba-nacos-client/target/
+/e-commerce-authority-center/target/
+/e-commerce-common/target/
+/e-commerce-gateway/target/
+/e-commerce-mvc-config/target/
+/e-commerce-service/e-commerce-account-service/target/
+/e-commerce-service/e-commerce-goods-service/target/
+/e-commerce-service/e-commerce-service-config/target/
+/e-commerce-service/e-commerce-service-sdk/target/
